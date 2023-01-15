@@ -1,3 +1,3 @@
 # legacy
-Legacy projects code
+Legacy projects code\
 Use with caution
